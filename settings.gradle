@@ -1,0 +1,3 @@
+include ':mkspacebase'
+include ':app'
+rootProject.name = "MkSpaceBase"
