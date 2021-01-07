@@ -1,0 +1,15 @@
+ext {
+    libraryVersionName = '0.0.1'
+
+    // Bintray setting info
+    repositoryName = 'MkSpaceBase'
+    packageName = 'com.mkspace.mkspacebase'
+
+    description = 'mkSpace base library'
+
+    websiteUrl = 'https://github.com/mkSpace/MkSpaceBase'
+    gitHubRepoUrl = 'https://github.com/mkSpace/MkSpaceBase.git'
+
+    gitHubRepo = 'mkSpace/MkSpaceBase'
+    gitHubReleaseNotesFile = 'README.md'
+}
